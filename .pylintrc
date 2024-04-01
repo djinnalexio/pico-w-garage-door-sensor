@@ -1,9 +1,0 @@
-[MESSAGES CONTROL]
-disable=global-statement,
-        invalid-name,
-        missing-module-docstring,
-        missing-function-docstring,
-        import-error,
-        no-else-raise,
-        duplicate-code,
-        global-variable-not-assigned
